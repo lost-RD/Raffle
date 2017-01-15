@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raffle", "Raffle.csproj", "{750B7C54-179A-4D90-889B-B45B55114E35}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{750B7C54-179A-4D90-889B-B45B55114E35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{750B7C54-179A-4D90-889B-B45B55114E35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{750B7C54-179A-4D90-889B-B45B55114E35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{750B7C54-179A-4D90-889B-B45B55114E35}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

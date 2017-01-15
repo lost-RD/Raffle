@@ -1,0 +1,5 @@
+C:\Users\Lachie\Projects\CSharpLearning\bin\Release\CSharpLearning.exe
+C:\Users\Lachie\Projects\CSharpLearning\bin\Release\CSharpLearning.pdb
+C:\Users\Lachie\Projects\CSharpLearning\obj\Release\lottery.csprojResolveAssemblyReference.cache
+C:\Users\Lachie\Projects\CSharpLearning\obj\Release\CSharpLearning.exe
+C:\Users\Lachie\Projects\CSharpLearning\obj\Release\CSharpLearning.pdb

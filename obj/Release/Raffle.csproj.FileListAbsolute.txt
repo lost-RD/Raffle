@@ -1,0 +1,5 @@
+C:\Users\Lachie\Projects\CSharpLearning\obj\Release\Raffle.csprojResolveAssemblyReference.cache
+C:\Users\Lachie\Projects\CSharpLearning\bin\Release\raffle.exe
+C:\Users\Lachie\Projects\CSharpLearning\bin\Release\raffle.pdb
+C:\Users\Lachie\Projects\CSharpLearning\obj\Release\raffle.exe
+C:\Users\Lachie\Projects\CSharpLearning\obj\Release\raffle.pdb
